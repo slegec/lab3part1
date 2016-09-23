@@ -1,6 +1,6 @@
 * Craig Slegel
 
-* <img src="ProfilePic.jpg" alt="Profile Picture" height="80">
+* <img src="./ProfilePic.jpg" alt="Profile Picture" height="80">
 
 * 2018
 
